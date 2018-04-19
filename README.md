@@ -7,32 +7,33 @@ BackTrack provided users with easy access to a comprehensive and large collectio
 
 BackTrack included many well known security tools including:
 
-Metasploit for integration
-Wi-Fi drivers supporting monitor mode (rfmon mode) and packet injection
-Aircrack-ng
-Gerix Wifi Cracker
-Kismet
-Nmap
-Ophcrack
-Ettercap
-Wireshark (formerly known as Ethereal)
-BeEF (Browser Exploitation Framework)
-Hydra
-OWASP Mantra Security Framework, a collection of hacking tools, add-ons and scripts based on Firefox
-Cisco OCS Mass Scanner, a very reliable and fast scanner for Cisco routers to test default telnet and enabling password.
-A large collection of exploits as well as more commonplace software such as browsers.
-Armitage - java frontend to Metasploit.
+-Metasploit for integration
+-Wi-Fi drivers supporting monitor mode (rfmon mode) and packet injection
+-Aircrack-ng
+-Gerix Wifi Cracker
+-Kismet
+-Nmap
+-Ophcrack
+-Ettercap
+-Wireshark (formerly known as Ethereal)
+-BeEF (Browser Exploitation Framework)
+-Hydra
+-OWASP Mantra Security Framework, a collection of hacking tools, add-ons and scripts based on Firefox
+-Cisco OCS Mass Scanner, a very reliable and fast scanner for Cisco routers to test default telnet and enabling password.
+-A large collection of exploits as well as more commonplace software such as browsers.
+-Armitage - java frontend to Metasploit.
+
 BackTrack arranged tools into 12 categories:
 
-Information gathering
-Vulnerability assessment
-Exploitation tools
-Privilege escalation
-Maintaining access
-Reverse engineering
-RFID tools
-Stress testing
-Forensics
-Reporting tools
-Services
-Miscellaneous
+1. Information gathering
+2. Vulnerability assessment
+3. Exploitation tools
+4. Privilege escalation
+5. Maintaining access
+6. Reverse engineering
+7. RFID tools
+8. Stress testing
+9. Forensics
+10. Reporting tools
+11. Services
+12. Miscellaneous
